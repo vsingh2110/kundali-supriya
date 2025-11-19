@@ -1,0 +1,902 @@
+Basic
+Kundli
+KP
+Ashtakvarga
+Charts
+Dasha
+Free Report
+Basic Details
+Name	Supriya
+Date	29/01/2000
+Time	07:50 PM
+Place	Faridabad, Haryana, India
+Latitude	28.4
+Longitude	77.31
+Timezone	GMT+5.5
+Sunrise	7:10:2
+Sunset	17:58:4
+Ayanamsha	23.85817
+Panchang Details
+Tithi	KrishnaNavami
+Karan	Gar
+Yog	Vriddhi
+Nakshatra	Vishakha
+Avakhada Details
+Varna	Vaishya
+Vashya	Nara
+Yoni	Vyaghra
+Gan	Rakshasa
+Nadi	Antya
+Sign	Libra
+Sign Lord	Venus
+Nakshatra-Charan	Vishakha
+Yog	Vriddhi
+Karan	Gar
+Tithi	KrishnaNavami
+Yunja	Madhya
+Tatva	Air
+Name alphabet	Te
+Paya	Silver            
+
+
+Birth Details
+Nakshatra	Vishaka 3rd Pada
+Weekday	Saturday
+Tithi	Navami (Krishna Paksha )
+Yoga	Vridhi
+Karana	Garija
+Vikram Samvat	Pausa 23, 2056
+God	Indra, Agni, Satragni**
+Animal Sign	Tiger (Lion*)
+Rasi Lord	Venus
+Ascendant	Simha
+Ascendant Lord	Sun
+Ganam	Asura
+Yoni	Male
+Gothram	Vasishtha
+Bhutham	Fire
+Sunrise	07:14 AM
+Sunset	05:53 PM
+
+Your Nakshatra and Zodiac
+Given below is the Janma nakshatra & related information for your input with birth date January 29, 2000 & birth place Faridabad, Haryana, India
+
+Janma Nakshatra is Vishaka
+Date & Time	January 29, 2000 - 7:50 PM IST (+05:30)
+Weekday	Saturday
+View panchang for this day →
+Nakshatra	Vishaka, 3rd Pada
+Jan 29, 01:33:41 AM - Jan 30, 04:08:23 AM
+Chandra Rasi (Janma Rasi )	Tula
+
+
+
+
+
+Name	Supriya
+Gender	Female
+Birth Date	January 29, 2000 Saturday
+Birth Time	7:50 PM IST (+05:30)
+Place of Birth	Faridabad, Haryana, India
+Nakshatra	Vishaka
+Rasi	Tula
+Ayanamsa	Lahiri
+
+
+
+
+Planets
+Planet	Sign	Sign Lord	Nakshatra	Naksh Lord	Degree	Retro(R)	Combust	Avastha	House	Status
+Ascendant	Leo	Sun	Magha	Ketu	10∘11′58″	Direct	No	--	1	--
+Sun	Capricorn	Saturn	Shravana	Moon	15∘7′26″	Direct	No	Yuva	6	Enemy
+Moon	Libra	Venus	Vishakha	Jupiter	29∘11′39″	Direct	No	Mrita	3	Enemy
+Mercury	Capricorn	Saturn	Dhanishta	Mars	24∘29′48″	Direct	Yes	Bala	6	Friendly
+Venus	Sagittarius	Jupiter	Mula	Ketu	12∘0′4″	Direct	No	Yuva	5	Enemy
+Mars	Aquarius	Saturn	Purva Bhadrapada	Jupiter	25∘50′27″	Direct	No	Mrita	7	Enemy
+Jupiter	Aries	Mars	Ashwini	Ketu	3∘47′4″	Direct	No	Bala	9	Friendly
+Saturn	Aries	Mars	Bharani	Venus	16∘42′59″	Direct	No	Yuva	9	Enemy
+Rahu	Cancer	Moon	Pushya	Saturn	9∘41′54″	Retro	No	Vriddha	12	--
+Ketu	Capricorn	Saturn	Uttara Ashadha	Sun	9∘41′54″	Retro	No	Vriddha	6	--
+Neptune	Capricorn	Saturn	Shravana	Moon	10∘23′13″	Direct	No	Vriddha	6	--
+Uranus	Capricorn	Saturn	Shravana	Moon	22∘29′48″	Direct	No	Kumara	6	--
+Pluto	Scorpio	Mars	Jyeshtha	Mercury	18∘27′25″	Direct	No	Kumara	4	--
+
+-------
+Planet Positions
+The table below shows the position of planets at the date, time and place of birth as entered in the input form.
+
+Planets	Positions	Degrees	Rasi	Rasi Lord	Nakshatra	Nakshatra Lord
+Sun Sun	285° 7'	15° 7′	Makara Makara	Saturn	Shravana	Moon
+Moon Moon	209° 11'	29° 11′	Tula Tula	Venus	Vishaka	Jupiter
+Mercury Mercury	294° 29'	24° 29′	Makara Makara	Saturn	Dhanishta	Mars
+Venus Venus	251° 59'	11° 59′	Dhanu Dhanu	Jupiter	Moola	Ketu
+Mars Mars	325° 50'	25° 50′	Kumbha Kumbha	Saturn	Purva Bhadrapada	Jupiter
+Jupiter Jupiter	3° 46'	3° 46′	Mesha Mesha	Mars	Ashwini	Ketu
+Saturn Saturn	16° 42'	16° 42′	Mesha Mesha	Mars	Bharani	Venus
+Ascendant Ascendant	130° 12'	10° 12′	Simha Simha	Sun	Magha	Ketu
+Rahu Rahu ℞	99° 41'	9° 41′	Karka Karka	Moon	Pushya	Saturn
+Ketu Ketu ℞	279° 41'	9° 41′	Makara Makara	Saturn	Uttara Ashadha	Sun
+℞ denotes Retrograde
+
+-------
+
+Vimshottari Dasha
+1
+Mahadasha
+2
+Antardasha
+3
+Pratyantardasha
+4
+Sookshmadasha
+Planet	Start Date	End Date
+Jupiter	Birth	16-Jan-2005
+Saturn	16-Jan-2005	16-Jan-2024
+Mercury	16-Jan-2024	16-Jan-2041
+Ketu	16-Jan-2041	16-Jan-2048
+Venus	16-Jan-2048	16-Jan-2068
+Sun	16-Jan-2068	16-Jan-2074
+Moon	16-Jan-2074	16-Jan-2084
+Mars	16-Jan-2084	16-Jan-2091
+Rahu	16-Jan-2091	17-Jan-2109
+
+----------
+Your Vimshottari Dasha Details
+Vimshottari dasha is the most important and most supreme dasha as per vedic astrology. There are 9 dashas divided over a period of 120 years. Each dasha has a ruling planet and the life of a person is directly influenced by the nature of his/her ruling planet governing a particular dasha. The first Maha dasha is determined by the position of the natal moon in a given nakṣatra.
+
+Dasa Balance : 4 years, 11 months and 19 days
+Given below is the start time and end time of various mahadashas
+
+Mahadasha	Start	End
+Jupiter	18-Jan, 1989	18-Jan, 2005
+Saturn	18-Jan, 2005	19-Jan, 2024
+Mercury	19-Jan, 2024	18-Jan, 2041
+Ketu	18-Jan, 2041	19-Jan, 2048
+Venus	19-Jan, 2048	19-Jan, 2068
+Sun	19-Jan, 2068	18-Jan, 2074
+Moon	18-Jan, 2074	19-Jan, 2084
+Mars	19-Jan, 2084	19-Jan, 2091
+Rahu	19-Jan, 2091	19-Jan, 2109
+
+
+
+----------
+
+
+
+
+KP system-----------
+
+Bhav Chalit Chart
+Ruling Planets
+--	Sign Lord	Star Lord	Sub Lord
+Mo	Venus	Jupiter	SATURN
+Asc	Jupiter	Venus	Mars
+Day Lord	Mercury
+Planets
+Planets	Cusp	Sign	Sign Lord	Star Lord	Sub Lord
+Sun	6	Capricorn	Sa	Mo	Ju
+Moon	3	Libra	Ve	Ju	Su
+Mars	7	Aquarius	Sa	Ju	Ke
+Rahu	11	Cancer	Mo	Sa	Ve
+Jupiter	1	Aries	Ma	Ke	Mo
+Saturn	9	Aries	Ma	Ve	Mo
+Mercury	6	Capricorn	Sa	Ma	Ra
+Ketu	5	Capricorn	Sa	Su	Ve
+Venus	5	Sagittarius	Ju	Ke	Me
+Neptune	5	Capricorn	Sa	Mo	Mo
+Uranus	6	Capricorn	Sa	Mo	Ve
+Pluto	4	Scorpio	Ma	Me	Me
+Cusps
+Cusp	Degree	Sign	Sign Lord	Star Lord	Sub Lord
+1	130.2	Leo	Su	Ke	Sa
+2	156.58	Virgo	Me	Su	Me
+3	186.59	Libra	Ve	Ma	Mo
+4	218.68	Scorpio	Ma	Sa	Ve
+5	250.7	Sagittarius	Ju	Ke	Sa
+6	281.39	Capricorn	Sa	Mo	Ma
+7	310.2	Aquarius	Sa	Ra	Ju
+8	336.58	Pisces	Ju	Sa	Me
+9	6.59	Aries	Ma	Ke	Ra
+10	38.68	Taurus	Ve	Su	Ve
+11	70.7	Gemini	Me	Ra	Sa
+12	101.39	Cancer	Mo	Sa	Mo
+
+
+
+--------
+Mangal Dosha Analysis Report
+The person is Manglik
+The person is Manglik and since Mars is positioned in the 7th house, it indicates strong Manglik Dosha
+However The person's Mangal dosha has been cancelled due to following reasons:
+​ Mangal dosha is cancelled as Mars is in Kumbha, in the 7th house in your horoscope.
+
+
+
+
+
+
+
+
+Raja Yoga
+Special Combination of Planets in the Horoscope (Applicable Yogas)
+A unique characteristic of Indian astrology are the yoga’s. Yoga’s are planetary positions that lead to a certain result. In Vedic astrology, the associations planets form or variations of how they are placed in the chart are referred to as Yogas.
+
+
+Special And Important Yogas in your birth chart
+​ Gajakesari Yoga
+Someone with Gaja Kesari Yoga is considered to be really lucky. This yoga is as a result of the Moon and Jupiter coming together by being in the 1st, 4th, 7th, or 10th Kendra from each other. It is believed that a person born with this yoga in their horoscope will be blessed with the intellect of an elephant and the grandeur of a lion. For one to truly benefit from the Gajakesari yoga, the aspect and conjunction must be at the most optimum position. This is why we don’t see the true positive effect of the Gaja Kesari Yoga in the lives of all those who are supposedly born with this yoga in their horoscope. In this chart Jupiter is in kendras from Moon.
+
+​ Musala Yoga
+When all the planets and the Lagna are in the Fixed signs like Taurus, Leo, Scorpio and Aquarius, a Musala yoga is the end result. Those with this yoga tend to be very straight forward about their ethos and principles in life. Administrative jobs are an excellent career choice for such people. Fame and prestigious achievements are likely to follow such people as a reward for their diligence. However such individuals don't roll well with change. Flexibility is definitely not their forte.
+
+​ Raja Yoga
+A typical Raja Yoga happens when two or more than two planets (out of which atleast one should be the lord of 'Kendra' & the other should be the lord of 'Trikon') is in a relationship with each other. This relationship can be a combination, bidirectional vision or exchange of zodiacs. A person with a Raja Yoga enjoys social status and fame. Recognition and laurels will follow them for their efforts on various matters. In this chart there is relationship between Sun, Moon & Mercury planets.
+
+
+Moon Based Yogas in your birth chart
+​ KemaDruma Yoga
+Kemadruma Yoga is formed when the second and twelfth house from the moon is not occupied by any planet (except Sun, Rahu and Ketu). This leaves either side of Moon empty, making it weak. Struggles and Poverty is typical of a person born with Kemadruma Yoga. Being away from family and loved ones is also seen in such natives. Some remedies that are advised to minimise the negative effects of Kemadruma yoga is: Fasting on Purnima days for four consecutive years is known to minimise the negative effects of Kemadruma yoga. You may begin this fast starting from a Purnima that happens on a Monday or even from the day of Chitra nakshatra whenever it falls on a Monday. Pay a visit to Siva's temple on Mondays and perform abhisheka using cow’s milk on Shivalinga Worshipping Lord Shiva and goddess Parvati is advised. Reciting the Shivapanchakshari mantra ‘Om Namah Shivaya’ with a Rudraksha mala is also specially helpful. Reading the Sri Sukta regularly and keeping a Dakshinavarti shell in the house is also helpful. Fill water in the Dakshinavarti shell and puse this water to perform abhisheka on the idol of of Goddess Lakshmi. Wearing a Sri Yantra set in silver with a pearl is also especially helpful for Kemadruma natives.
+
+Sun Based Yogas in your birth chart
+​ Veshi Yoga
+Veshi yoga is formed when the planets Mercury, Venus, Mars, Jupiter or Saturn is in the second house from Sun. Person born in this yoga do not discriminate between people. They are religious and they are usually happy go lucky people. In this chart planet Mars is in the 2nd house from Sun.
+
+​ Vaasi Yoga
+Vashi yoga is found in a birth chart when any planet except Rahu, Ketu and Moon is placed in the twelfth house from the Sun. Wealth, luxury and joy are seen to follow those with this yoga. Those with Vaasi yoga have a likeable personality and are talented, intelligent, systematic and diligent in anything that they undertake. They are honest and true to their words at all times. In this chart planet Venus is in the 12th house from Sun.
+
+​ Ubhayachari Yoga
+Ubhayachari yoga is seen in a person's birth chart when there are any planets except Rahu, Ketu and Moon in the second house and twelfth house from the Sun. The natives of this yoga enjoy good health and will be surrounded by friends wherever they go. In this chart planets Venus & Mars are on either side of sun.
+
+
+Inauspicious Yogas in your birth chart
+​ Grahan Yoga
+One of the most inauspicious yogas in astrology is Grahan Yoga. This occurs when either the Sun or Moon is with either the Rahu or Ketu in a birth chart. Depending on the houses impacted in Grahan Yoga, various spheres of life are impacted. Promises are seldom kept and trying to find an escape route to run away from their responsibilities becomes a part and parcel of the native's life. In this chart Sun is in Ketu.
+
+​ Kuja Yoga
+The Kuja Yoga also known as Mangal Dosa or Mangalik Dosa is formed when Mars is in the 1st, 4th, 7th, 8th and 12th house of a chart. Some remedies to appease the Mars god are: When two people with Kuja Dosha enter a married life, the negative effects are cancelled. Chanting Navgraha mantra is helpful. Meditating and chanting on Gayatri Mantra and Hanuman Chalisa is particularly helpful. Worshipping Hanuman and visiting a Hanuman temple on Tuesdays is helpful. Observing a fast on Tuesdays is also helpful. In this chart Mars is in Kendra.
+
+
+
+
+
+
+
+-------
+
+
+Ashtakvarga Chart
+Ashtakvarga is used to assess the strength and patterns that are present in a birth chart. The Ashtakvarga or Ashtakavarga is a numerical quantification or score of each planet placed in the chart with reference to the other 7 planets and the Lagna. In Sarva Ashtaka Varga the total scores of all the BAVs are overlaid and then totalled. This makes the SAV of the chart. The total of all the scores should be 337.  (Please see in the images folder for chart/table)
+
+
+ALL D Charts --  (see in images folder)---
+-------
+Varga Charts
+Shodashvarga Rasi Table
+The provided table below illustrates the 16 divisions of the Rashi Chart, known as Shodashvarga. The initial row displays the chart names, while the subsequent rows indicate the corresponding Rashi (Zodiac sign) numbers in which the planets are positioned.
+
+Shodashvarga	Ascendant	Sun	Moon	Mercury	Venus	Mars	Jupiter	Saturn	Rahu	Ketu
+Rasi	5	10	7	10	9	11	1	1	4	10
+Hora	5	5	4	5	5	4	5	4	4	4
+Drekkana	9	2	3	6	1	7	1	5	4	10
+Chaturthamsa	8	4	4	7	12	8	1	7	7	1
+Saptamsa	7	7	1	9	11	5	1	4	12	6
+Navamsa	4	2	3	5	4	2	2	6	6	12
+Dasamsa	8	11	4	2	12	7	2	6	3	9
+Dwadasamsa	9	4	6	7	1	9	2	7	7	1
+Shodasamsa	10	9	4	2	3	6	3	9	6	6
+Vimsamsa	3	11	8	5	12	2	3	12	7	7
+Chaturvimsamsa	1	4	4	11	2	1	8	6	11	11
+Saptavimsamsa	10	5	9	2	11	6	4	4	6	12
+Trimsamsa	9	12	7	10	9	7	1	9	6	6
+Khavedamsa	2	3	3	3	4	11	6	11	7	7
+Akshavedamsa	8	11	8	1	2	7	6	2	3	3
+Shashtyamsa	1	4	5	10	8	2	8	10	11	5
+
+Shodashvarga Bhava Table
+The table provided below outlines the Shodashvarga along with the corresponding Bhava (House) numbers in which the planets are positioned in each chart.
+
+Shodashvarga	Ascendant	Sun	Moon	Mercury	Venus	Mars	Jupiter	Saturn	Rahu	Ketu
+Rasi	1	6	3	6	5	7	9	9	12	6
+Hora	1	1	12	1	1	12	1	12	12	12
+Drekkana	1	6	7	10	5	11	5	9	8	2
+Chaturthamsa	1	9	9	12	5	1	6	12	12	6
+Saptamsa	1	1	7	3	5	11	7	10	6	12
+Navamsa	1	11	12	2	1	11	11	3	3	9
+Dasamsa	1	4	9	7	5	12	7	11	8	2
+Dwadasamsa	1	8	10	11	5	1	6	11	11	5
+Shodasamsa	1	12	7	5	6	9	6	12	9	9
+Vimsamsa	1	9	6	3	10	12	1	10	5	5
+Chaturvimsamsa	1	4	4	11	2	1	8	6	11	11
+Saptavimsamsa	1	8	12	5	2	9	7	7	9	3
+Trimsamsa	1	4	11	2	1	11	5	1	10	10
+Khavedamsa	1	2	2	2	3	10	5	10	6	6
+Akshavedamsa	1	4	1	6	7	12	11	7	8	8
+Shashtyamsa	1	4	5	10	8	2	8	10	11	5
+Lords of Shodasavarga Table
+The table provided below displays the lords of the houses in which the planets are situated, with colours indicating whether the lords are in their Own Sign, Friends' sign, Enemy's sign, or Neutral.
+
+Shodashvarga	Ascendant	Sun	Moon	Mercury	Venus	Mars	Jupiter	Saturn	Rahu	Ketu
+Rasi	Sun	Saturn	Venus	Saturn	Jupiter	Saturn	Mars	Mars	Moon	Saturn
+Hora	Sun	Sun	Moon	Sun	Sun	Moon	Sun	Moon	Moon	Moon
+Drekkana	Jupiter	Venus	Mercury	Mercury	Mars	Venus	Mars	Sun	Moon	Saturn
+Chaturthamsa	Mars	Moon	Moon	Venus	Jupiter	Mars	Mars	Venus	Venus	Mars
+Saptamsa	Venus	Venus	Mars	Jupiter	Saturn	Sun	Mars	Moon	Jupiter	Mercury
+Navamsa	Moon	Venus	Mercury	Sun	Moon	Venus	Venus	Mercury	Mercury	Jupiter
+Dasamsa	Mars	Saturn	Moon	Venus	Jupiter	Venus	Venus	Mercury	Mercury	Jupiter
+Dwadasamsa	Jupiter	Moon	Mercury	Venus	Mars	Jupiter	Venus	Venus	Venus	Mars
+Shodasamsa	Saturn	Jupiter	Moon	Venus	Mercury	Mercury	Mercury	Jupiter	Mercury	Mercury
+Vimsamsa	Mercury	Saturn	Mars	Sun	Jupiter	Venus	Mercury	Jupiter	Venus	Venus
+Chaturvimsamsa	Mars	Moon	Moon	Saturn	Venus	Mars	Mars	Mercury	Saturn	Saturn
+Saptavimsamsa	Saturn	Sun	Jupiter	Venus	Saturn	Mercury	Moon	Moon	Mercury	Jupiter
+Trimsamsa	Jupiter	Jupiter	Venus	Saturn	Jupiter	Venus	Mars	Jupiter	Mercury	Mercury
+Khavedamsa	Venus	Mercury	Mercury	Mercury	Moon	Saturn	Mercury	Saturn	Venus	Venus
+Akshavedamsa	Mars	Saturn	Mars	Mars	Venus	Venus	Mercury	Venus	Mercury	Mercury
+Shashtyamsa	Mars	Moon	Sun	Saturn	Mars	Venus	Mars	Saturn	Saturn	Sun
+
+Shodashvarga Charts
+The following are the 16 divisional charts, collectively known as Shodashavarga.
+
+5
+6
+7
+8
+9
+10
+11
+12
+1
+2
+3
+4
+Asc
+Mo
+Ve
+Su
+Me
+Ke
+Ma
+Ju
+Sa
+Ra
+D1 - Rasi
+(Body)
+5
+6
+7
+8
+9
+10
+11
+12
+1
+2
+3
+4
+Su
+Me
+Ve
+Ju
+Asc
+Mo
+Ma
+Sa
+Ra
+Ke
+D2 - Hora
+(Wealth)
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+Asc
+Ke
+Ve
+Ju
+Su
+Mo
+Ra
+Sa
+Me
+Ma
+D3 - Drekkana
+(Siblings)
+8
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+Ma
+Asc
+Ve
+Ju
+Ke
+Su
+Mo
+Me
+Sa
+Ra
+D4 - Chaturthamsa
+(Luck)
+7
+8
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+Su
+Asc
+Me
+Ve
+Ra
+Mo
+Ju
+Sa
+Ma
+Ke
+D7 - Saptamsa
+(Progeny)
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1
+2
+3
+Ve
+Asc
+Me
+Sa
+Ra
+Ke
+Su
+Ma
+Ju
+Mo
+D9 - Navamsa
+(Spouse)
+8
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+Asc
+Ke
+Su
+Ve
+Me
+Ju
+Ra
+Mo
+Sa
+Ma
+D10 - Dasamsa
+(Profession)
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+Ma
+Asc
+Ve
+Ke
+Ju
+Su
+Mo
+Me
+Sa
+Ra
+D12 - Dwadasamsa
+(Parents)
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Asc
+Me
+Ve
+Ju
+Mo
+Ma
+Ra
+Ke
+Su
+Sa
+D16 - Shodasamsa
+(Vehicles)
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1
+2
+Ju
+Asc
+Me
+Ra
+Ke
+Mo
+Su
+Ve
+Sa
+Ma
+D20 - Vimsamsa
+(Religious Inclinations)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Ma
+Asc
+Ve
+Su
+Mo
+Sa
+Ju
+Me
+Ra
+Ke
+D24 - Chaturvimsamsa
+(Education)
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Asc
+Ve
+Ke
+Me
+Ju
+Sa
+Su
+Ma
+Ra
+Mo
+D27 - Saptavimsamsa
+(Strength)
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+Ve
+Sa
+Asc
+Me
+Su
+Ju
+Ra
+Ke
+Mo
+Ma
+D30 - Trimsamsa
+(Misfortune)
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1
+Asc
+Su
+Mo
+Me
+Ve
+Ju
+Ra
+Ke
+Ma
+Sa
+D40 - Khavedamsa
+(Auspicious results)
+8
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+Mo
+Asc
+Su
+Me
+Ve
+Sa
+Ra
+Ke
+Ju
+Ma
+D45 - Akshavedamsa
+(General Well Being)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Asc
+Ma
+Su
+Mo
+Ke
+Ve
+Ju
+Me
+Sa
+Ra
+D60 - Shashtyamsa
+(General Well Being)
+
+
+----------
+
+
+-------
+
+Planet Relationship
+Based on the planetary positions calculated from the given birthdate, time, and place, the ensuing tables outline the relationships among the planets, referred to as Graha Sambandha or Graha Maitri:
+
+Naisargika Maitri Table:
+The subsequent table illustrates the Naisargika Maitri, representing the inherent or natural relationships among the planets:
+
+Planets	Sun	Moon	Mercury	Venus	Mars	Jupiter	Saturn
+Sun	--	Friend	Neutral	Enemy	Friend	Friend	Enemy
+Moon	Friend	--	Friend	Neutral	Neutral	Neutral	Neutral
+Mercury	Friend	Enemy	--	Friend	Neutral	Neutral	Neutral
+Venus	Enemy	Enemy	Friend	--	Neutral	Neutral	Friend
+Mars	Friend	Friend	Enemy	Neutral	--	Friend	Neutral
+Jupiter	Friend	Friend	Enemy	Enemy	Friend	--	Neutral
+Saturn	Enemy	Enemy	Friend	Friend	Enemy	Neutral	--
+
+Tatkaala Maitri Table:
+The table below shows the temporary relationships among the planets, known as Tatkaala Maitri or Temporary Relationship:
+
+Planets	Sun	Moon	Mercury	Venus	Mars	Jupiter	Saturn
+Sun	--	Friend	Enemy	Friend	Friend	Friend	Friend
+Moon	Friend	--	Friend	Friend	Enemy	Enemy	Enemy
+Mercury	Enemy	Friend	--	Friend	Friend	Friend	Friend
+Venus	Friend	Friend	Friend	--	Friend	Enemy	Enemy
+Mars	Friend	Enemy	Friend	Friend	--	Friend	Friend
+Jupiter	Friend	Enemy	Friend	Enemy	Friend	--	Enemy
+Saturn	Friend	Enemy	Friend	Enemy	Friend	Enemy	--
+Panchada Maitri Table:
+The ensuing table displays the compound relationship among the planets, referred to as the Panchada Maitri or Five-Fold relationship. This calculation involves the combination of both Naisargika and Tatkaala Maitri:
+
+Planets	Sun	Moon	Mercury	Venus	Mars	Jupiter	Saturn
+Sun	--	Extreme Friend	Enemy	Neutral	Extreme Friend	Extreme Friend	Neutral
+Moon	Extreme Friend	--	Extreme Friend	Friend	Enemy	Enemy	Enemy
+Mercury	Neutral	Neutral	--	Extreme Friend	Friend	Friend	Friend
+Venus	Neutral	Neutral	Extreme Friend	--	Friend	Enemy	Neutral
+Mars	Extreme Friend	Neutral	Neutral	Friend	--	Extreme Friend	Friend
+Jupiter	Extreme Friend	Neutral	Neutral	Extreme Enemy	Extreme Friend	--	Enemy
+Saturn	Neutral	Extreme Enemy	Extreme Friend	Neutral	Neutral	Enemy	--
+
+
+
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+Transit Chart
+Given below is the transit chart that shows the current planetary placements in houses and signs on November 19, 2025 04:25 PM at Faridabad, Haryana, India
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Asc
+Ju
+Ke
+Mo
+Ve
+Su
+Me
+Ma
+Ra
+Sa
+
+Transit Planet Positions
+The table below displays the current planetary positions in the birth chart, alongside the nakshatras through which they are currently traversing.
+
+Planets	Sign Degrees	House	Rashi Lord	Nakshatra	Nakshatra Lord	Full Degree
+Sun
+15° 7′
+Makara	6	Saturn	Shravana
+Pada: 2	Moon	285° 7'
+Moon
+29° 11′
+Tula	3	Venus	Vishaka
+Pada: 3	Jupiter	209° 11'
+Mercury
+24° 29′
+Makara	6	Saturn	Dhanishta
+Pada: 1	Mars	294° 29'
+Venus
+11° 59′
+Dhanu	5	Jupiter	Moola
+Pada: 4	Ketu	251° 59'
+Mars
+25° 50′
+Kumbha	7	Saturn	Purva Bhadrapada
+Pada: 2	Jupiter	325° 50'
+Jupiter
+3° 46′
+Mesha	9	Mars	Ashwini
+Pada: 2	Ketu	3° 46'
+Saturn
+16° 42′
+Mesha	9	Mars	Bharani
+Pada: 2	Venus	16° 42'
+Ascendant
+10° 12′
+Simha	1	Sun	Magha
+Pada: 4	Ketu	130° 12'
+Rahu
+Retrograde	9° 41′
+Karka	12	Moon	Pushya
+Pada: 2	Saturn	99° 41'
+Ketu
+Retrograde	9° 41′
+Makara	6	Saturn	Uttara Ashadha
+Pada: 4	Sun	279° 41'
+November 19, 2025 4:25 PM IST (+05:30)
+Faridabad, Haryana, India
+
+Sun is in Vrischika (Scorpio) rashi
+Sun is placed in the 2nd house from your Moon sign Sun entered Vrischika Rashi on November 16, 2025. After 29 days of transit in Vrischika, Sun transit to Dhanu (Sagittarius) rashi on December 16, 2025.
+
+The sun symbolizes paternal influence, ego, and inner strength. Among the five elements, it is associated with fire, representing vitality and energy.
+
+Mars is in Vrischika (Scorpio) rashi
+Mars is placed in the 2nd house from your Moon sign Mars entered Vrischika Rashi on October 27, 2025. After 1 month and 10 days of transit in Vrischika, Mars transit to Dhanu (Sagittarius) rashi on December 07, 2025.
+
+Mars embodies strength, passion, courage and ambition. It signifies aggression, adventure, and a competitive spirit, often associated with sudden bursts of energy and action.
+
+Mercury is in Vrischika (Scorpio) rashi
+Mercury is placed in the 2nd house from your Moon sign Mercury entered Vrischika Rashi on October 24, 2025. After 30 days of transit in Vrischika, Mercury transit to Tula (Libra) rashi on November 23, 2025.
+
+Mercury symbolizes intelligence and speech, reflecting youthful characteristics and a wavering nature with volatility.
+
+Jupiter is in Karka (Cancer) rashi
+Jupiter is placed in the 10th house from your Moon sign Jupiter entered Karka Rashi on October 18, 2025. After 1 month and 16 days of transit in Karka, Jupiter transit to Mithuna (Gemini) rashi on December 05, 2025.
+
+Jupiter is revered as a guru, mentor, and guide for wise and learned individuals. It represents morality, righteousness, and holiness, fostering optimism and positive thinking.
+
+
+Venus is in Tula (Libra) rashi
+Venus is placed in the 1st house from your Moon sign Venus entered Tula Rashi on November 02, 2025. After 23 days of transit in Tula, Venus transit to Vrischika (Scorpio) rashi on November 26, 2025.
+
+Venus represents the roles of wife and woman, symbolizing romance, sexuality, and love, including aspects of affairs. It signifies harmony, often associated with a regal or royal nature.
+
+Saturn is in Meena (Pisces) rashi
+Saturn is placed in the 6th house from your Moon sign Saturn entered Meena Rashi on March 29, 2025. After 2 years, 2 months and 4 days of transit in Meena, Saturn transit to Mesha (Aries) rashi on June 03, 2027.
+
+Saturn represents discipline, duty, and the practical aspects of day-to-day work. It symbolizes hard work, limitations, and boundaries, reflecting reality and practicality. Its influence is often characterized by slowness, repetition, and an orthodox nature.
+
+Moon is in Tula (Libra) rashi
+Moon is placed in the 1st house from your Moon sign Moon entered Tula Rashi on November 17, 2025. After 2 days of transit in Tula, Moon transit to Vrischika (Scorpio) rashi on November 20, 2025.
+
+The moon represents motherhood, feminine energy, and emotions. It symbolizes imagination, intelligence, and the passage of memories, associated with travel and desires, it also exhibits gentle leadership and adaptability.
+
+Ketu is in Simha (Leo) rashi
+Ketu is placed in the 11th house from your Moon sign Ketu entered Simha Rashi on May 18, 2025. After 1 year, 6 months and 17 days of transit in Simha, Ketu transit to Karka (Cancer) rashi on December 05, 2026.
+
+Ketu signifies detachment and the pursuit of moksha, or spiritual liberation. It embodies spirituality, meditation, and isolation as pathways toward enlightenment.
+
+Rahu is in Kumbha (Aquarius) rashi
+Rahu is placed in the 5th house from your Moon sign Rahu entered Kumbha Rashi on May 18, 2025. After 1 year, 6 months and 17 days of transit in Kumbha, Rahu transit to Makara (Capricorn) rashi on December 05, 2026.
+
+Rahu embodies materialism and sudden, transformative influences, representing the unknown. It symbolizes lust, greed, and obsessions, often leading to hallucinations, paranoia, and extreme behaviors.
+
